@@ -1,0 +1,4 @@
+[themes]
+fruit = ["apple", "banana", "orange", "grape", "kiwi"]
+animal = ["lion", "elephant", "giraffe", "tiger", "zebra"]
+country = ["Portugal", "Brazil", "Japan", "France", "Australia"]
